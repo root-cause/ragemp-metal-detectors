@@ -1,0 +1,16 @@
+{
+  "colshapeSize": 1.05,
+  "soundRange": 15.0,
+  "cooldownMs": 2000,
+  "allowedWeapons": [
+    "WEAPON_UNARMED",
+    "WEAPON_CERAMICPISTOL"
+  ],
+  "smallWeaponGroups": [
+    "GROUP_MELEE",
+    "GROUP_PISTOL",
+    "GROUP_SMG",
+    "GROUP_STUNGUN",
+    "GROUP_THROWN"
+  ]
+}
